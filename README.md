@@ -1,1 +1,2 @@
 # personal-baking-website
+Hello! This will be my first ever project that I build from scratch. I began coding on August 10, 2023 as a result of my uncertainty with my career choices and goals at the time. I wanted to try something completely new that was beyond my comprehension and expertise. Once I finish this project, I should have utilized HTML, CSS, and JavaScript! Hopefully more as I go along my journey through coding!
